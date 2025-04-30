@@ -10,7 +10,7 @@ GPT模型介绍并且使用pytorch实现一个小型GPT中文闲聊系统
 03 模型构建  
 04 训练模型  
 05 demo测试    
-图片展示参见飞书记录：https://zoneyet-ai.feishu.cn/docx/JO8mdNZdRoTh69xJx9hc3qwJn2f#H4Cxdu1gRowVy7x7s60cVqNdnOh   
+图片展示参见飞书记录：   
 
 模型采用的是GPT-2结构模型，参考图如下（layer=12, head=12, 参数量：1.2亿）：  
 <!--![alt text](image.png)-->
